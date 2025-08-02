@@ -100,14 +100,6 @@
 	    "lmys": {
       "api": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
       "name": "懒猫影视"
-    },
-"custom_category": [
-
-   {
-      "name": "美剧虫",
-      "type": "movie",
-      "query": "美剧虫"
     }
-  ]
   }
 }
