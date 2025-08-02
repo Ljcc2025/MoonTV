@@ -84,6 +84,22 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+        "mjc": {
+      "api": "https://meijuchong.com/api.php/v1.vod",
+      "name": "美剧虫"
+    },
+	    "alys": {
+      "api": "http://aliys.cn:90/api.php/v1.vod",
+      "name": "阿里"
+    },
+	    "zjdr": {
+      "api": "https://www.zhuijudaren.com/mogai_api.php/v1.vod",
+      "name": "追剧达人"
+    },
+	    "lmys": {
+      "api": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
+      "name": "懒猫影视"
     }
   }
 }
