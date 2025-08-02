@@ -101,5 +101,27 @@
       "api": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
       "name": "懒猫影视"
     }
+"custom_category": [
+    {
+      "name": "追剧达人",
+      "type": "movie",
+      "query": "追剧达人"
+    },
+    {
+      "name": "懒猫影视",
+      "type": "movie",
+      "query": "懒猫影视"
+    },
+    {
+      "name": "阿里",
+      "type": "movie",
+      "query": "阿里"
+    },
+   {
+      "name": "美剧虫",
+      "type": "movie",
+      "query": "美剧虫"
+    }
+  ]
   }
 }
